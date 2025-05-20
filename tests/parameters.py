@@ -1,6 +1,6 @@
-test_login = "test@gmail.com"
-test_password = "test"
-incorrect_login = "test"
+test_login = "test_test@gmail.com"
+test_password = "zRF08DKng-"
+incorrect_login = "zRF08DKng-"
 name = "DeLorian DMC-12"
 description = "Машина времени"
 price = 1000000
